@@ -1,0 +1,15 @@
+E:\Repositórios\PDFDemo\PDFDemo\bin\Debug\PDFDemo.exe.config
+E:\Repositórios\PDFDemo\PDFDemo\bin\Debug\PDFDemo.exe
+E:\Repositórios\PDFDemo\PDFDemo\bin\Debug\PDFDemo.pdb
+E:\Repositórios\PDFDemo\PDFDemo\obj\Debug\PDFDemo.csprojResolveAssemblyReference.cache
+E:\Repositórios\PDFDemo\PDFDemo\obj\Debug\PDFDemo.MainForm.resources
+E:\Repositórios\PDFDemo\PDFDemo\obj\Debug\PDFDemo.Properties.Resources.resources
+E:\Repositórios\PDFDemo\PDFDemo\obj\Debug\PDFDemo.csproj.GenerateResource.Cache
+E:\Repositórios\PDFDemo\PDFDemo\obj\Debug\PDFDemo.exe
+E:\Repositórios\PDFDemo\PDFDemo\obj\Debug\PDFDemo.pdb
+E:\Repositórios\PDFDemo\PDFDemo\bin\Debug\PdfSharp.Charting.dll
+E:\Repositórios\PDFDemo\PDFDemo\bin\Debug\PdfSharp.dll
+E:\Repositórios\PDFDemo\PDFDemo\bin\Debug\PdfSharp.xml
+E:\Repositórios\PDFDemo\PDFDemo\bin\Debug\PdfSharp.Charting.xml
+E:\Repositórios\PDFDemo\PDFDemo\bin\Debug\de\PdfSharp.resources.dll
+E:\Repositórios\PDFDemo\PDFDemo\bin\Debug\de\PdfSharp.Charting.resources.dll
